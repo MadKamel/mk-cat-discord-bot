@@ -8,7 +8,7 @@ meows = ["miaow", "*purrr*", "mrrow"]
 
 meows2 = ["*purrrr* *purrrr*", "miaow!", "mrrrow!"]
 
-shut = ["shut", "quiet", "stop"]
+shut = ["shut", "quiet", "stop", "<:shut:798315262998872124>"]
 
 happy = False
 
